@@ -38,7 +38,8 @@ Source: Tableau public sample dataset
 ## 🧑‍💻 Author
 **Jeetu Raut**  
 Data Analyst | Tableau | Power BI | SQL | Python  
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+LinkedIn: https://linkedin.com/in/JeetRaut26
+GitHub](https://github.com)
 
 ---
 
