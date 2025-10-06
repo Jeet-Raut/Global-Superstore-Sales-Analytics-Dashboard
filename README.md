@@ -39,7 +39,7 @@ Source: Tableau public sample dataset
 **Jeetu Raut**  
 Data Analyst | Tableau | Power BI | SQL | Python  
 LinkedIn: https://linkedin.com/in/JeetRaut26
-GitHub](https://github.com)
+Twitter (X): https://twitter.com/JeetRautt
 
 ---
 
