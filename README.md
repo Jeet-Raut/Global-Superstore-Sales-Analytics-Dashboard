@@ -40,6 +40,7 @@ Source: Tableau public sample dataset
 Data Analyst | Tableau | Power BI | SQL | Python  
 LinkedIn: https://linkedin.com/in/JeetRaut26
 Twitter (X): https://twitter.com/JeetRautt
+Email: jeet.rautt@gmail.com
 
 ---
 
