@@ -1,7 +1,7 @@
 # 📊 Global Superstore Sales Analytics Dashboard
 
 ## 🧠 About
-This project features an interactive Tableau dashboard built from the **Sample Superstore Sales dataset**. It focuses on analyzing key retail metrics such as **sales performance, profitability, and customer segmentation** across regions, categories, and time periods.  
+This project features an interactive Tableau dashboard built from the **Sample Superstore Sales dataset**. It focuses on analyzing key retail metrics such as **sales performance, profitability, and customer segmentation** across regions, categories, and time periods.
 
 The goal is to demonstrate **data-driven decision-making** through clean data modeling, visualization, and storytelling in Tableau.
 
