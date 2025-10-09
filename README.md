@@ -22,12 +22,6 @@ The goal is to demonstrate **data-driven decision-making** through clean data mo
 
 ---
 
-## 📂 Dataset
-Dataset: *Sample Superstore Sales (Excel)*  
-Source: Tableau public sample dataset  
-
----
-
 ## 🎯 Key Insights
 - **West region** leads in overall sales but shows declining profit margins.  
 - **Office Supplies** category contributes most orders but least profit.  
